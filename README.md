@@ -1,7 +1,7 @@
 ## Nabin Bhandari 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nabin)]() 
-[![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabin/)]() 
+[![Twitter Badge](https://img.shields.io/badge/-Nabin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nabin)]() 
+[![Linkedin Badge](https://img.shields.io/badge/-Nabin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabin/)]() 
 
 
 <h2> Hey there! I'm Nabin.</h2>
